@@ -55,7 +55,7 @@
 			}
 		]
 	},
-	"productName": "AstralRinth App",
+	"productName": "NexusOffline ",
 	"version": "../app-frontend/package.json",
 	"mainBinaryName": "AstralRinth App",
 	"identifier": "AstralRinthApp",
@@ -77,7 +77,7 @@
 				"fullscreen": false,
 				"height": 800,
 				"resizable": true,
-				"title": "AstralRinth",
+				"title": "NexusOffline",
 				"label": "main",
 				"width": 1280,
 				"minHeight": 700,
